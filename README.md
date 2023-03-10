@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring**, **Docker**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**, **Spring**, **SQL**
 
 - 📫 How to reach me **shamrai.nikita@gmail.com**
 
