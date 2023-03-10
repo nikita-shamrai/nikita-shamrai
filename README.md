@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shamrai.nikita@gmail.com**
 
-- ⚡ Fun fact **I built an electric motorcycle**
+- ⚡ Fun fact **I built an electric motorcycle myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
