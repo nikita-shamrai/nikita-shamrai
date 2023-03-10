@@ -2,7 +2,7 @@
 <h3 align="center">Beginner backend Java developer from Ukraine:yellow_square::blue_square:  <br> 
   Currently in Lithuania</h3>
 
-- 🔭 My PET project [SpringBoot Blog Rest API](https://github.com/nikita-shamrai/my-blog-springboot-v1)
+- 🔭 My PET project [SpringBoot Blog Rest API](https://github.com/nikita-shamrai/blog.git)
 
 - 🌱 I’m currently learning **Spring**, **Docker**
 
