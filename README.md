@@ -4,9 +4,9 @@
 
 - 🔭 **My PET project** [SpringBoot Blog Rest API](https://github.com/nikita-shamrai/blog.git)
 
-- 🌱 I’m currently learning **Spring**, **Docker**
+- 🌱 I’m currently learning **Spring Security**, **Docker**
 
-- 💬 Ask me about **Java**, **Hibernate**, **Spring**, **SQL**
+- 💬 Ask me about **Java**, **Hibernate**, **SpringMVC**, **SpringBoot**, **SQL**
 
 - 📫 How to reach me **shamrai.nikita@gmail.com**
 
